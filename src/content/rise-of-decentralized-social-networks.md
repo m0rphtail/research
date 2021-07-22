@@ -16,38 +16,34 @@ tags:
 
 ### **Abstract** 
 
-Widespread use of social media has drastically transformed the way we communicate; however, many believe these changes aren’t necessarily for the good. In recent years, many social networks have caught the attention of internet activists, which brought to light the privacy-invasive model of these social networks.  They can fully grasp all users’ information, and in the meanwhile, users can only trust them for protecting their private information. However, it was revealed that these networks use this data not only for marketing purposes, but there were trades of these data between corporations as well. Data leak of this confidential user information also takes place every few months, with the most recent being Air India [1] and Dominos [2] in May 2021. Several users have expressed dissatisfaction with how major social media platforms dealt misinformation, censorship, privacy, political neutrality, user control, and malicious activities. Decentralized Social Networks, also known as Federated Networks, have emerged as a result of these concerns.
+Widespread use of social media has drastically transformed the way we communicate; however, many believe that these changes aren’t necessarily for the good. In recent years, many social networks have caught the attention of internet activists, which brought to light the privacy-invasive model of these social networks.  They can fully grasp all users’ information, and in the meanwhile, users can only trust them for protecting their private information. However, it was revealed that these networks use this data not only for marketing purposes, but there were trades of user's data between corporations as well. Data leak of this confidential user information also takes place every few months, with the most recent being Air India [1] and Dominos [2] in May 2021. Several users have expressed dissatisfaction with how major social media platforms dealt misinformation, censorship, privacy, political neutrality, user control, and malicious activities. Decentralized Social Networks, also known as Federated Networks, have emerged as a means to address these concerns.
 
 ### **Motivation**
 
-As more and more users around the world become conscious about the privacy and security-related concerns in social media platforms, alternatives to these platforms are being explored. The idea of Decentralized Social Networks is being favored by a community, which keeps increasing with every passing day, as more and more people become aware of and understand it.
-Decentralized social networks bring with them a wide number of internet values, such as enhanced privacy, security, transparency, incentivization, elimination of third parties, and open-source. These are some values we believe in, and feel are the need of the time, which motivated us to choose this project.
+As more and more users around the world become aware about the privacy and security-related concerns on social media platforms, alternatives to these platforms are being explored. The idea of 'Decentralized Social Networks' is being favored by a community, which keeps increasing with every passing day, as more and more people become aware of and understand it.
+Decentralized social networks bring with them a wide number of internet values, such as enhanced privacy, security, transparency, incentivization, elimination of third parties, and open-source. These are some values we believe in, and feel are the need of the time, which motivated us to choose to research this.
 
 
 ### **Aim and objectives**
 
 - #### Aim:
     
-    To study and understand Decentralized Social Networks, and their relevance in today’s world
+    In this article, I cover after studying the Decentralized Social Networks, and their relevance in today’s world.
 
 
 - #### Objectives:
-    - To research the need for Decentralized Social Networks
-    - To understand the services offered by Decentralized Social Networks
-    - To understand what Decentralized Social Networks can be implemented with
-    - To research about the existing Decentralized Social Networks
-    - To understand what are Decentralized Autonomous Organizations (DAOs)
+    - I wanted to look at Decentralized Social Networks, to understand what and how the services are offered by such networks. I also wanted to understand how can the 'Decentralized Social Networks' be implemented? In our research, we found existing Decentralized Social Networks. In this article, I have also dropped few lines on "Decentralized Autonomous Organizations" (DAOs).
 
 
 ### **Introduction to the topic** 
 
-Online Social Networks (OSNs) have become extremely popular in the last 2 decades, where users can share digital photos/videos and text entries ("posts") with their friends. As a typical example, Facebook, which already has more than two billion users [3], attracts people of different ages, genders, and cultural and national backgrounds. OSNs have become an indispensable element of many users' life. In general, OSNs aid in the transition of users' real-world relationships to the network by providing storage services for their digital information.
+Online Social Networks (OSNs) have become extremely popular in the last two decades, where users can share digital photos/videos and text entries ("posts") with their friends. As a typical example, Facebook, which already has more than two billion users [3], attracts people of different age, gender, cultural and ethnic backgrounds. OSNs have become an indispensable element of many Internet users' life. In general, OSNs aid in the transition of users' real-world relationships to the network by providing storage services for their digital information.
 
-Many research efforts have recently been focused to the many functional aspects of OSNs, which has resulted in OSN systems being increasingly user-friendly [4]. Users' privacy, on the other hand, is found to be easily breached in OSNs. Despite the fact that most OSNs allow users to alter privacy settings to limit other users' access, there are no suitable technical methods to govern OSN providers' access or prohibit them from sharing data with third parties. For example, in March 2018, The New York Times reported that a company improperly obtained information of more than 50 million users on Facebook, and this incident occurred in 2015 [5]. Similar situations have occurred numerous times in the past. The major reason for these incidents is that the existing OSNs with central structures can fully grasp all users’ information, and in the meanwhile, users can only believe that the OSN providers can protect their private information. In this case, users cannot even be certain that the OSN providers will erase their data when they choose to delete their information after destructing their accounts. 
+Many research efforts have recently been focused to the many functional aspects of OSNs, which has resulted in OSN systems being increasingly user-friendly [4]. Users' privacy, on the other hand, is found to be easily breached in OSNs. Despite the fact that most OSNs allow users to alter privacy settings to limit other users' access, there are no suitable technical methods to govern OSN providers' access or prohibit them from sharing data with third parties. For example, in March 2018, The New York Times reported that a company improperly obtained information of more than 50 million users on Facebook, and the data breach incident actually occurred in 2015 [5]. Similar situations have come to notice, numerous times in the past. The major reason for these incidents is that the existing OSNs with centralized structures can fully control all users’ information, and in the meanwhile, users can only believe that the OSN providers can protect their private information. With OSNs, users cannot even be certain whether the OSN providers will erase their data or not, if they choose to delete their information after deleting their accounts. 
 
 
-The scrutiny that platforms such as Facebook, Twitter and Instagram have been under in recent years appears seems to have taken its toll on consumers, who increasingly say they are losing trust in social media, with some saying they use it less as a result.
-In a poll of more than 2,000 people, 63% said they had lost trust in social media platforms. As a result, 22% said they use social media less. Meanwhile, 61% of users said they were now more careful about the privacy of their posts. On political advertising, more than half (59%) said it should be regulated on social media during elections and referendums. [6]
+The regulatory scrutiny that platforms such as Facebook, Twitter and Instagram have found themselves under in recent years appears to have taken its toll on consumers, who increasingly are losing trust in social media, with some saying they use it less as a result.
+In a poll of more than 2,000 people, 63% said that they had lost trust in social media platforms. As a result, 22% said they use social media less. Meanwhile, 61% of users said that they were now more careful about the privacy of their posts. More than half (59%) said that political advertising should be regulated on social media during elections or referendums. [6]
 
 
 ### **Literature Review**  
