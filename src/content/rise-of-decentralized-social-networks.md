@@ -55,42 +55,42 @@ Senthil Kumar and Saravanakumar Kandasamy observed [7] that privacy concerns are
 ### **Data Security and Awareness** 
 
 Johanna Cabalhin, in her research [8], pointed out that on many existing social networks, users are needed to reveal a certain detail about themselves online to prove they are who they claim to be. The more information a user shares, the easier it is to predict some of the user’s most private information using data mining. In the US, for example, a person’s social security number may be revealed or predicted (with a certain level of accuracy) by using a combination of hometown and birthdate. 
-Facebook has commercial relationships with several corporations for its advertorial revenues. These corporations integrate their marketing efforts onto the platform via tools provided by Facebook. Observations from public hearings, judicial probes, data scandals have all but pointed to Facebook's practice of sharing of consumer data to these corporate partners, beyond a point of user's awareness or at times ignorance.  This has invoked a long-running debate about whether this trade of data for a "personalized experience" is right or not.
+Facebook has commercial relationships with several corporations for its advertorial revenues. These corporations integrate their marketing efforts onto the platform via tools provided by Facebook. Observations from public hearings, judicial probes, data scandals have all but pointed to Facebook's practice of sharing of consumer data to these corporate partners, beyond a point of user's awareness or at times ignorance. This has invoked a long-running debate about whether this trade of data for a "personalized experience" is right or not.
 
 
 ### **The Rise of Decentralized Social Networks**
 
 #### **Decentralized Social Networks come into the limelight**
 
-To address the privacy concerns regarding existing social networks, Decentralized Online Social Networks (DOSNs) have been investigated. There are several components of a Decentralized Social Network that sets it apart from a regular social media site. The first key difference is that it isn’t a standalone website that you can access — it is a network of hundreds of different communities that each own an instance of the code. It allows the participants of the social network to be more in control of their data, and decide who gets access to what part of it. It also allows the participants who are creators of some kind, to monetize and earn tokens equivalent to major cryptocurrencies, and incentivize participants who assist the network in their own ways.
+To address the privacy concerns regarding existing social networks, Decentralized Online Social Networks (DOSNs) have been explored. There are several components of a Decentralized Social Network that sets it apart from a regular social media site. The first key difference is that it isn’t a standalone website that you can access. Technically, it is a network of hundreds of different communities so that each own an instance of the code. It allows the participants of the social network to have more control of their data, and decide who gets access to what part of participant's data. It also allows the participants who are creators of some kind, to monetize their content. Content creators can earn tokens equivalent to major cryptocurrencies, which can also be converted to fiat money. DOSNs also incentivize participants who assist the network's scalability with their engagement levels..
 
 #### The Promises made by Decentralized Social Networks: 
 
 
 **1. Doing Away with the Centralized Bias**  
 
-Currently, the government has the authority to censor social networks like Facebook, Twitter, etc. if the content on them is seen unfit for the general public. At the same time, social media companies have complete control over the type of material that appears on their platform and the direction that visitors are directed.
-Decentralized social networks will take out the centralized bias and oversight. It will make social media networks more transparent and implement a peer-to-peer interaction-based mechanism. Instead of using personal information as a profile identifier, decentralized application development will rely on the production of unique code. The user will be able to select which data to share with the network.
+Currently, the government has the authority to censor social networks like Facebook, Twitter, etc. if the content on these platforms is deemed unfit for the general public. At the same time, social media companies have complete control over the type of material that appears on their platform and the context to which visitors are directed.
+Decentralized social networks will take out this centralized bias and oversight. It will make social media networks more transparent and implement a peer-to-peer interaction-based mechanism. Instead of using personal information as a profiling mechanism, decentralized application development relies on the production of unique code. The users are able to select which data to share with the network.
 
 **2. Eliminate the Need for Intermediaries**  
 
-Consumers on a particular social media site are frequently targeted by fraudulent adverts and malware attacks. This occurs since, in an attempt to offer third-party tools access to data for marketing objectives, the data also falls into the hands of internet scammers. A decentralized social network developer is aware of this problem and addresses it throughout the development of decentralized applications.
+Consumers on a particular social media platform are frequently targeted by fraudulent adverts, phisching and malware attacks. In an attempt to offer third-party services(other platforms or tools) access to data for marketing objectives, the data also falls into the hands of bad actors on the internet with non legitimate interests. A decentralized social network developer is aware of this problem and addresses it throughout the development of decentralized applications.
 
-A decentralized social network creates a direct connection between the participants and business logic if any. The systems allow marketers to promote their facilities to the participants as well, in a better way. Marketers may validate their data without relying on third-party technologies or middlemen with the help of this system. As a result, advertisers receive reliable data, and real consumers see their ads.
+A decentralized social network creates a direct connection between the participants and business logic if any. The systems allow marketers to promote their facilities to the participants as well,but in a better and more secure way. Marketers may validate their data without relying on third-party technologies or middlemen with the help of this system. As a result, advertisers receive reliable data, and real consumers see their ads.
 
 **3. User Information is Not the Product in Decentralized Apps**  
 
-Social media platforms contain an abundance of information about their users, which they sell to the highest bidder in order to market their products. However, the bidder could be anyone – from organizations with malicious intent to government-sponsored agencies. In this system, user information is turned into a commodity that may be sold for money without the users' agreement.
-Users and content creators have the right to their information and stand to benefit directly from decentralized social media, in the case of decentralized social networks. Information is securely stored into the network using modern cryptography algorithms, which makes it very hard to decrypt by anyone without the user’s permission.  This does not allow entities to sell confidential data to other entities.
+Social media platforms host an abundance of information about their users, which they can sell to the highest bidder as a precursor to their business goals. However, the bidder could be anyone – from organizations with malicious intent to government-sponsored agencies. In this system, user information is turned into a commodity that may be sold for money without the users' agreement. It is worthwhile to note that, at times, the user consent is swiftly taken while many average Internet users are hardly aware of having given such consent.
+Users and content creators have the right to their information and stand to benefit directly from decentralized social media, in the case of decentralized social networks. Information is securely stored into the network using modern cryptography algorithms, which makes it very hard to decrypt by anyone without the user’s adequate permission.  This does not allow entities to sell confidential data to other entities, without going through the real owner of the data i.e You.
 
 
 **4. Scope for Crowd-funding**  
 
-The most significant advantage of decentralized crowdfunding is the increased transparency it provides. There is a clear money trail to trace because no intermediaries are involved. This allows crowd-funding to take place at various stages, based on the proof presented by the entity requesting the funds. Furthermore, smart contracts is the technology often used by platforms to ensure that money being raised is spent on what the companies are supposed to pursue rather than being wasted.
+The most significant advantage of decentralized crowdfunding is the increased transparency it provides. There is a clear money trail to trace because no intermediaries are involved. This allows crowd-funding to take place at various stages, based on the proof presented by the entity requesting the funds. Furthermore, smart contracts is the technology often used by platforms to ensure that money being raised is spent on what the companies are supposed to pursue rather than on illegitimate interests.
 
 **5. Incentivize Participants of the Network for their Services**  
 
-Decentralized Social Networks generally run as crypto platforms; hence cryptocurrency is an excellent incentive that can be introduced in the interactions on these platforms. With the absence of intermediaries that sell user information to third parties, users can now exchange their information directly with blockchain node hosts in exchange of benefits. Users can be approached by marketers and asked whether they would want to share their data in exchange for cryptocurrencies. This financial incentive could be another reason for users to return to the network.
+Decentralized Social Networks generally run as digital currency or token based platforms; hence cryptocurrency is an excellent incentive that can be introduced in the interactions on these platforms. With the absence of intermediaries that sell user information to third parties, users can now exchange their information directly with blockchain node hosts in exchange of benefits. Users can be approached by marketers and asked whether they would want to share their data in exchange for monetization. This financial incentive could be another reason for users to return or be engaged to the network.
 
 #### **Blockchain to the Rescue:**  
 
@@ -105,9 +105,9 @@ Blockchain is a type of Distributed Ledger Technology in which transactions are 
 
 #### **Blockchain-based Social Networks:**
 
-Blockchain-based Social Networks are essentially decentralized platforms built on blockchain technology that allows for development of applications and smart contracts. These decentralized social platforms enable end-to-end encryptions for every interaction. 
+Blockchain-based Social Networks are essentially decentralized platforms built on blockchain technology. This allows for development of applications and smart contracts between stakeholders on the network. These decentralized social platforms enable end-to-end encryptions for every interaction. 
 
-Similar to Blockchain ecosystems, Blockchain-based Social Networks generally have traits such as native currency, used for:
+Similar to Blockchain ecosystems, Blockchain-based social networks generally have traits such as native currency, used for:
 - in-platform transactions
 - rewarding users
 - crowdfunding 
@@ -116,34 +116,32 @@ Similar to Blockchain ecosystems, Blockchain-based Social Networks generally hav
 
 **1. Users don’t have to place their trust in a central authority.**  
 
-We put our trust in companies and governments all the time, and it's perfectly fine to make these decisions on a case-by-case basis. However, we see numerous examples of this trust failing us in various ways, ranging from the product you trusted to backup all of your photos being shut down when the startup is bought or goes out of business, to the social media company selling your data to advertisers who track you around the internet. You should be able to minimize or eliminate the trust you have to place in third parties in a well-designed decentralized network.
+We put our trust in companies and governments all the time, and it's perfectly fine to make these decisions on a case-by-case basis. However, we see numerous examples of this trust failing us in various ways. Misfire of trust can range from an app, which you trusted to backup all of your photos, being shut down when the startup behind the app is bought out or goes out of business, to a social media company, selling your data to advertisers who then track you all over the internet. You should be able to minimize or eliminate the trust you have to place in third parties in a well-designed decentralized network.
 
 **2. There will be fewer single points of failure.**  
 
-
-We see single points of failure all the time in the form of outages of centralized websites. When Gmail goes down, productivity suffers as a result of not being able to access your email. Your bank’s website shuts down for maintenance and you can’t do an online transfer to pay your bills. Because no single node in a decentralized network can bring the entire network down, your applications should remain up and running regardless of how many users come and go.
+We see single points of failure all the time in the form of outages of centralized websites. When Gmail goes down, productivity suffers as a result of not being able to access your email. Your bank’s website shuts down for maintenance and you can’t do an online transfer to pay your bills. In DOSNs, because no single node in a decentralized network can bring the entire network down, your applications should remain up and running regardless of how many users come and go.
 
 **3. There is less censorship.**    
 
-It is becoming increasingly common that governments blocking individuals’ access to social media, in an attempt to suppress information about internal affairs. It is simple for them to shut down access to Twitter, because all they have to do is block traffic to Twitter's central servers. However, censoring traffic on a peer-to-peer network is significantly more challenging, because every outgoing packet sent could be connecting with another peer on the decentralized network, who could then forward that message onward.
-
+It is increasingly becoming common that central institutions e.g draconian & non democratic governments are using their regulatory powers to block individuals’ access to social media. This may as well be an attempt to suppress information about internal affairs. It is simple for such institutions to shut down access to say Twitter, because all they have to do is block traffic to Twitter's central servers. However, censoring traffic on a peer-to-peer network is significantly more challenging, because every outgoing packet sent could be connecting with another peer on the decentralized network, who could then forward that message onward.
 
 **4. Decentralized networks are more likely to be open development platforms.**  
 
-This means that anyone can build amazing tools, products, and services on top of decentralized networks. In contrast, centralized technology is more commonly closed off, with development prospects purposely limited. Companies can still make money if they are open and decentralized. In fact, the greater products and tools that are built, the greater the network effects that lock consumers into the network, and thus the more potential to build great businesses on top of that.
+This means that anyone can build amazing tools, products, and services on top of decentralized networks. In contrast, centralized technology is more commonly closed source, with development prospects intentionally limited. Companies can still make money if they are open and decentralized. In fact, the greater products and tools that are built, the greater the network effects that lock consumers into the network, and thus the more potential to build great businesses on top of that.
 
 **5. Decentralized networks can be more meritocratic.**  
 
-When everyone follows the same, transparent rules, the best product, service, or content should be more likely to be identified and rewarded over time. It's possible that the system will be less meritocratic if traffic, attention, and money are distributed behind a closed, centralized algorithm.
+When everyone follows the same, transparent rules, the best product, service, or content should be more likely to get identified and rewarded over time. It's possible that the system will be less meritocratic if traffic, attention, and money are distributed behind a closed, centralized algorithm.
 
-**Reasons why Decentralized Networks haven’t picked up yet:**
+**Let's talk about possible reasons for why "Decentralized Networks" haven’t picked up yet:**
 
 Decentralized networks come with their own tradeoffs:
 - They may take longer to develop and interact with.
-- They can be more expensive to run
+- They can be more expensive to run.
 - Mainstream customers may just not care whether or not their service's backend is decentralized, as long as they can do their intended purpose as quickly and cheaply as possible.
 
-This being said, in light of the awareness of the invasive model of these centralized social networks, more and more people are considering switching to more secure and privacy-promising alternatives. For example, millions of users rushed to adopt Signal as an alternative to WhatsApp, as soon as Elon Musk tweeted, “Use Signal” after WhatsApp announced its data-sharing plans with Facebook. [11]
+This being said, in light of the awareness of the invasive model of these centralized social networks, more and more people are considering switching to more secure and privacy-promising alternatives. For example, millions of users rushed to adopt Signal as an alternative to WhatsApp. Elon Musk had tweeted, “Use Signal” after WhatsApp announced its data-sharing plans with Facebook. [11]
 
 Asmita Karanje writes, “Decentralized social media platforms aren’t new, they just aren’t popular. But they might hold the key to address the problems of Big Tech”. [12]
 
@@ -172,14 +170,14 @@ Mastodon isn't a single website like Twitter; it's a network of tens of thousand
 - Alternative to: Facebook 
 - Features: Decentralized, Open-source 
 
-Diaspora was one of the first decentralized social networks. Diaspora was promoted as a Facebook alternative at the time, in 2010. It received some well-deserved attention in its early years, but it was limited to a small number of niche members. Diaspora, like Mastodon, is made up of pods. You can either join a pod or start your own. Your data does not belong to Big Tech; it belongs to you. [15]
+Diaspora is one of the first decentralized social networks. Diaspora was promoted as a Facebook alternative at the time, in 2010. It received some well-deserved attention in its early years, but it was limited to a small number of niche members. Diaspora, like Mastodon, is made up of pods. You can either join a pod or start your own. Your data does not belong to Big Tech; it belongs to you. [15]
 
 **4. Minds**
 - Alternative to: Facebook and YouTube 
 - Features: Open-source code base, Blockchain 
 
 You can use Minds to upload movies, blogs, pictures, and status updates. You may also securely message and video chat with groups or individuals. You can find articles of interest by using trending feeds and hashtags.
-You can also get paid in tokens for your contributions. You can use these tokens to enhance your channel. Fans can send money directly to creators in USD, Bitcoin, and Ether. [16]
+You can also get paid in tokens for your contributions. You can use these tokens to enhance your channel. Fans can send money directly to creators in USD, Bitcoin, or Ether. [16]
  
 
 #### **Introduction to Decentralized Autonomous Organizations**
@@ -188,9 +186,9 @@ Decentralized Autonomous Organizations (DAOs) are a form of Decentralized Social
 
 ![](img/rise-of-decentralized-social-networks/dao.jpg)
 
-DAOs are made up of a group of people who interact with one another using an open-source protocol that is self-enforcing. The native network tokens are awarded for keeping the network safe and completing other network tasks. Blockchains and smart contracts reduce reduce administrative transaction costs while increasing transparency and aligning the interests of all stakeholders by the consensus rules tied to the native token. Individual behavior is incentivized with a token if it helps the group achieve a common goal.
+DAOs are made up of a group of people who interact with one another using an open-source protocol that is self-enforcing. The native network tokens are awarded for keeping the network safe and completing other network tasks. Blockchains and smart contracts reduce administrative transaction costs. DAO framework increases transparency and aligns the interests of all stakeholders by the consensus rules tied to the native token. Individual behavior is incentivized with a token if it helps the group achieve a common goal.
 
-A DAO’s members are not bound together by a legal entity, nor have they signed any formal legal contracts. Instead, they are network token-linked incentives and completely transparent rules encoded into the software, which is enforced by machine consensus. Bilateral agreements do not exist. The protocol or smart contract is the only governing law that governs the behaviour of all network participants.
+A DAO's members are not bound together by a legal entity, nor have they signed any formal legal contracts. Instead, they are network token-linked incentives and completely transparent rules encoded into the software, which is enforced by machine consensus. Bilateral agreements do not exist. The protocol or smart contract is the only governing law that governs the behaviour of all network participants.
  
 
 ### **Conclusion**
