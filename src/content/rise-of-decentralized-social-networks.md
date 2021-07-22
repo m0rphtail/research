@@ -42,7 +42,7 @@ Online Social Networks (OSNs) have become extremely popular in the last two deca
 Many research efforts have recently been focused to the many functional aspects of OSNs, which has resulted in OSN systems being increasingly user-friendly [4]. Users' privacy, on the other hand, is found to be easily breached in OSNs. Despite the fact that most OSNs allow users to alter privacy settings to limit other users' access, there are no suitable technical methods to govern OSN providers' access or prohibit them from sharing data with third parties. For example, in March 2018, The New York Times reported that a company improperly obtained information of more than 50 million users on Facebook, and the data breach incident actually occurred in 2015 [5]. Similar situations have come to notice, numerous times in the past. The major reason for these incidents is that the existing OSNs with centralized structures can fully control all users’ information, and in the meanwhile, users can only believe that the OSN providers can protect their private information. With OSNs, users cannot even be certain whether the OSN providers will erase their data or not, if they choose to delete their information after deleting their accounts. 
 
 
-The regulatory scrutiny that platforms such as Facebook, Twitter and Instagram have found themselves under in recent years appears to have taken its toll on consumers, who increasingly are losing trust in social media, with some saying they use it less as a result.
+In recent years, the regulatory scrutiny that the platforms such as Facebook, Twitter and Instagram have found themselves in, appears to have taken toll on the platform's consumers, who increasingly are losing trust in social media, with some using it less as a result.
 In a poll of more than 2,000 people, 63% said that they had lost trust in social media platforms. As a result, 22% said they use social media less. Meanwhile, 61% of users said that they were now more careful about the privacy of their posts. More than half (59%) said that political advertising should be regulated on social media during elections or referendums. [6]
 
 
@@ -50,19 +50,19 @@ In a poll of more than 2,000 people, 63% said that they had lost trust in social
 
 ### **Privacy in Existing Social Networks** 
 
-Senthil Kumar and Saravanakumar Kandasamy observed [7] that privacy concerns are very feeble on the social networking sites. The users of current social networking sites are concerned about privacy issues and information disclosure breaches. They also identified that many of the shortcomings exist on the technical structure of privacy and security measures of the social media sites.
+Senthil Kumar and Saravanakumar Kandasamy observed [7] that privacy concerns are very feeble on the social networking sites. Today's social networking media users are concerned about privacy issues and information disclosure breaches. They also identified that many of the shortcomings exist on the technical structure of privacy and security measures of the social media sites.
 
 ### **Data Security and Awareness** 
 
 Johanna Cabalhin, in her research [8], pointed out that on many existing social networks, users are needed to reveal a certain detail about themselves online to prove they are who they claim to be. The more information a user shares, the easier it is to predict some of the user’s most private information using data mining. In the US, for example, a person’s social security number may be revealed or predicted (with a certain level of accuracy) by using a combination of hometown and birthdate. 
-Facebook has commercial relationships with several corporations. These corporations integrate their marketing efforts into the site by giving them special “Groups” for interested account users, which are curated using the personal information, acquired from the users. This has incited a long-running debate about whether this trade of data for a "personalized experience" is moral or not.
+Facebook has commercial relationships with several corporations for its advertorial revenues. These corporations integrate their marketing efforts onto the platform via tools provided by Facebook. Observations from public hearings, judicial probes, data scandals have all but pointed to Facebook's practice of sharing of consumer data to these corporate partners, beyond a point of user's awareness or at times ignorance.  This has invoked a long-running debate about whether this trade of data for a "personalized experience" is right or not.
 
 
 ### **The Rise of Decentralized Social Networks**
 
 #### **Decentralized Social Networks come into the limelight**
 
-To accommodate the concerns regarding existing social networks, Decentralized Online Social Networks (DOSNs) have been investigated. There are several components of a Decentralized Social Network that sets it apart from a regular social media site. The first key difference is that it isn’t a standalone website that you can access — it is a network of hundreds of different communities that each own an instance of the code. It allows the participants of the social network to be more in control of their data, and decide who gets access to what part of it. It also allows the participants who are creators of some kind, to monetize and earn tokens equivalent to major cryptocurrencies, and incentivize participants who assist the network in their own ways.
+To address the privacy concerns regarding existing social networks, Decentralized Online Social Networks (DOSNs) have been investigated. There are several components of a Decentralized Social Network that sets it apart from a regular social media site. The first key difference is that it isn’t a standalone website that you can access — it is a network of hundreds of different communities that each own an instance of the code. It allows the participants of the social network to be more in control of their data, and decide who gets access to what part of it. It also allows the participants who are creators of some kind, to monetize and earn tokens equivalent to major cryptocurrencies, and incentivize participants who assist the network in their own ways.
 
 #### The Promises made by Decentralized Social Networks: 
 
